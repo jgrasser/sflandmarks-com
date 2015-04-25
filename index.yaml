@@ -1,0 +1,6 @@
+indexes:
+- kind: Landmark
+  ancestor: yes
+  properties: 
+  - name: date_accepted
+    direction: desc
